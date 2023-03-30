@@ -2,6 +2,11 @@
 
 Be a DevOps Engineer
 
+
+### Skills
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+
+
 <!--
 **yebinnn/yebinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
