@@ -4,7 +4,7 @@ Be a DevOps Engineer
 
 
 ### Skills
-<img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?logo=Amazon Web Service&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 
 
 <!--
