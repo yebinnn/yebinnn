@@ -4,7 +4,7 @@ Be a DevOps Engineer
 
 
 ### Skills
-<img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=Terraform&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 
 
 <!--
